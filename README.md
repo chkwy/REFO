@@ -1,6 +1,6 @@
 # <center>REFO: Reinforced Evolutionary Faithfulness Optimization for Large Language Models</center>
 
-![Method Overview](figs/method.pdf)
+![Method Overview](figs/method.png)
 
 This repository contains the official code and datasets for **REFO**, a novel iterative self-evolution framework designed to significantly enhance the faithfulness of Large Language Models (LLMs) in Retrieval-Augmented Generation (RAG). 
 
